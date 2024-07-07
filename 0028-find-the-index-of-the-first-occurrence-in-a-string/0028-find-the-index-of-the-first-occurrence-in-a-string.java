@@ -6,7 +6,7 @@ class Solution {
         // Iterate through haystack until there's not enough space for needle
         for (int i = 0; i <= haystackLength - needleLength; i++) {
             if (haystack.substring(i, i + needleLength).equals(needle)) {
-                return i; //If you do substring(i,needleLength), needleLength is fixed dumbo
+                return i; //If you do substring(i,needleLength), needleLength is fixed dumb
             }
         }
         return -1;
