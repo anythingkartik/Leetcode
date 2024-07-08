@@ -14,6 +14,6 @@ class Solution
                 rev =rev*10+rem;
                 num=num/10;
             }
-    return (rev==x)? true:false;
+    return rev==x;
     }
 }
