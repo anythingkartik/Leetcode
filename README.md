@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/anythingkartik/Leetcode/tree/master/0009-palindrome-number) |
 | [1642-water-bottles](https://github.com/anythingkartik/Leetcode/tree/master/1642-water-bottles) |
+| [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/anythingkartik/Leetcode/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
