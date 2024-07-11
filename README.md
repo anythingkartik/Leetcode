@@ -27,9 +27,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anythingkartik/Leetcode/tree/master/0001-two-sum) |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anythingkartik/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
