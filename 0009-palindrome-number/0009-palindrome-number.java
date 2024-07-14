@@ -1,6 +1,6 @@
 class Solution 
 {
-    public boolean isPalindrome(int x) 
+    public boolean isPalindrome(int x) //streak
     {
         if(x<0)
         {
