@@ -1,6 +1,9 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);  // Sort the array
+         if(nums.length == 0){
+            return true;
+        }
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1]) {
                 return true;  // Duplicate found
@@ -18,17 +21,5 @@ class Solution {
                 return true;
             }
         }
-        return false;
-        
-        
-        
-         String s=Arrays.toString(nums);
-        for(int i=0;i<nums.length;i++)
-        {
-            String ss=Integer.toString(nums[i]);
-            if(s.contains(ss))
-            {
-            return true;
-            }
-        }
         return false;*/
+        
