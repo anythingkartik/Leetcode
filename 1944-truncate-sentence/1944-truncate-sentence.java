@@ -1,6 +1,5 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        s=s.trim();
         String[] words = s.split(" ");
         int x=0;
         String wd="";
