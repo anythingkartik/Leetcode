@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anythingkartik/Leetcode/tree/master/0009-palindrome-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anythingkartik/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/anythingkartik/Leetcode/tree/master/1642-water-bottles) |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
