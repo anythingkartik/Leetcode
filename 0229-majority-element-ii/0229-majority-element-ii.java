@@ -4,7 +4,7 @@ class Solution {
         List<Integer> arr=new ArrayList<>();
         HashMap<Integer, Integer> hm = new HashMap<>();
 
-        int len=(int)Math.floor(nums.length/3);
+        int len=nums.length/3;
 
         for(int i=0;i<nums.length;i++)
         {
