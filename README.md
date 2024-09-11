@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/anythingkartik/Leetcode/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anythingkartik/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/anythingkartik/Leetcode/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anythingkartik/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
 | [1944-truncate-sentence](https://github.com/anythingkartik/Leetcode/tree/master/1944-truncate-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/anythingkartik/Leetcode/tree/master/3194-find-words-containing-character) |
 ## String Matching
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anythingkartik/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
