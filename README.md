@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anythingkartik/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anythingkartik/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anythingkartik/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anythingkartik/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
