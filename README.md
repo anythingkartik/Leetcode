@@ -23,6 +23,7 @@
 | [0058-length-of-last-word](https://github.com/anythingkartik/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anythingkartik/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
+| [1078-remove-outermost-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1944-truncate-sentence](https://github.com/anythingkartik/Leetcode/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/anythingkartik/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
