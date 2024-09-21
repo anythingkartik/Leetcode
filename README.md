@@ -44,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/anythingkartik/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/anythingkartik/Leetcode/tree/master/1944-truncate-sentence) |
 | [3194-find-words-containing-character](https://github.com/anythingkartik/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
