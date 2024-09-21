@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
