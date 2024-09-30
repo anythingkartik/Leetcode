@@ -1,22 +1,18 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int k=0;
-        if(nums.length==1 && nums[0]==0) {
-            System.out.print(nums);
-        }
-        else {
+        int k=0; //pointer for non-zero elements
+        
+         //loop to set non zero elements first
             for(int i=0;i<nums.length;i++) {
                 if(nums[i]!=0) {
                     nums[k]=nums[i];
                     k++;
                 }
             }
-            for(int i=k;i<nums.length;i++)
-            {
+         //Filling rest of array with 0
+            for(int i=k;i<nums.length;i++) {
                 nums[i]=0;
             }
             System.out.print(Arrays.toString(nums));
         }
-        
-    }
 }
