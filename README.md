@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anythingkartik/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
