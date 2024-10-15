@@ -14,7 +14,9 @@ public class Solution {
         ListNode fast=head;
         ListNode slow=head;
 
-       
+        if(head==null) { //not required but good for empty list check
+            return false;
+        }
 
         while(fast!=null && fast.next!=null){
             fast=fast.next.next; //Put this before if condition
