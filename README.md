@@ -46,6 +46,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
@@ -68,6 +70,7 @@
 | [0001-two-sum](https://github.com/anythingkartik/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anythingkartik/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +81,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
@@ -104,4 +108,8 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anythingkartik/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anythingkartik/Leetcode/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
