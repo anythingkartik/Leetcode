@@ -12,9 +12,7 @@ class Solution {
             x=nums[j];
             break;
         }
-        
         }
-
         return x;
     }
 }
