@@ -1,9 +1,8 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int result=-1;
-        if(haystack.contains(needle)) {
-            return haystack.indexOf(needle);
+          if (needle.isEmpty()) {
+            return 0; // Per problem requirements, return 0 if needle is empty
         }
-        return result;
+        return haystack.indexOf(needle);
     }
 }
