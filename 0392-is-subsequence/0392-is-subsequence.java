@@ -9,3 +9,20 @@ class Solution {
         return k == s.length(); // If `k` reaches the length of `s`, all characters matched
     }
 }
+
+
+
+/*class Solution {
+    public boolean isSubsequence(String s, String t) {
+        int k=0;
+        for(int i=0;i<t.length();i++) {
+            if((s.charAt(k))==(t.charAt(i))) {
+                k++;
+            }
+        }
+        if(s.length()==(k)) {
+            return true;
+        }
+        return false;
+    }
+}*/
