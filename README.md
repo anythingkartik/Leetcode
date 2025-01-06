@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anythingkartik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
@@ -119,5 +120,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anythingkartik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anythingkartik/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
