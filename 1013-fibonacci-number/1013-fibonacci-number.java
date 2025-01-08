@@ -3,7 +3,7 @@ class Solution {
        return fiboRecursion(n);
     }
 
-    private int fiboRecursion(int n) {
+    public int fiboRecursion(int n) {
         if(n<2) {
             return n;
         }
