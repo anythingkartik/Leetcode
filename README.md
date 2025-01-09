@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anythingkartik/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anythingkartik/Leetcode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/anythingkartik/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anythingkartik/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/anythingkartik/Leetcode/tree/master/1642-water-bottles) |
@@ -24,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anythingkartik/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anythingkartik/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anythingkartik/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anythingkartik/Leetcode/tree/master/0058-length-of-last-word) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anythingkartik/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anythingkartik/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anythingkartik/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anythingkartik/Leetcode/tree/master/0169-majority-element) |
