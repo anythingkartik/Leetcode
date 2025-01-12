@@ -8,9 +8,10 @@ class Solution {
 
         while(left<right) {
             if((numbers[left] + numbers[right])==target) {
+                //indexing is 1 based thats why!
                 arr[0]=left+1;
                 arr[1]=right+1;
-                break;
+                break; //important remember
             }
             else if(numbers[left]+numbers[right]>target) {
                 right=right-1;
