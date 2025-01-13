@@ -39,6 +39,7 @@
 | [0392-is-subsequence](https://github.com/anythingkartik/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anythingkartik/Leetcode/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anythingkartik/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1944-truncate-sentence](https://github.com/anythingkartik/Leetcode/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/anythingkartik/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/anythingkartik/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -91,6 +92,7 @@
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anythingkartik/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anythingkartik/Leetcode/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anythingkartik/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
