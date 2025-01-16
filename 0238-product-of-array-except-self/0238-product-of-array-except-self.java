@@ -4,20 +4,25 @@ class Solution {
     int n = nums.length;
     int[] answer = new int[n];
 
-    // Step 1: Compute prefix product
-    answer[0] = 1; // No left elements for the first element
-    for (int i = 1; i < n; i++) {
-        answer[i] = answer[i - 1] * nums[i - 1];
-    }
+    int prefix[]=new int[n];
+    int postfix[]=new int[n];
 
-    // Step 2: Compute suffix product and combine with prefix
-    int suffix = 1; // Start with no right elements for the last element
-    for (int i = n - 1; i >= 0; i--) {
-        answer[i] = answer[i] * suffix; // Combine prefix and suffix
-        suffix *= nums[i]; // Update suffix product
-    }
+    prefix[0]=1;
+    for(int i=1;i<n;i++) {
+        prefix[i]=prefix[i-1]*nums[i-1];
+    } 
 
+    postfix[n-1]=1;
+    for(int i=n-2;i>=0;i--) {
+        postfix[i]=postfix[i+1]*nums[i+1];
+    } 
+
+    for(int i=0;i<n;i++) {
+        answer[i]=prefix[i]*postfix[i];
+    }
     return answer;
+    
+
 
         /*int index=0;
         
