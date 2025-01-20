@@ -73,6 +73,7 @@
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anythingkartik/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/anythingkartik/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anythingkartik/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/anythingkartik/Leetcode/tree/master/1944-truncate-sentence) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/anythingkartik/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/anythingkartik/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anythingkartik/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anythingkartik/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
