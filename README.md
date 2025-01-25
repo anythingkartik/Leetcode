@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/anythingkartik/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anythingkartik/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anythingkartik/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/anythingkartik/Leetcode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/anythingkartik/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anythingkartik/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anythingkartik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anythingkartik/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anythingkartik/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
 ## Trie
