@@ -71,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/anythingkartik/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anythingkartik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anythingkartik/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anythingkartik/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/anythingkartik/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anythingkartik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anythingkartik/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/anythingkartik/Leetcode/tree/master/1013-fibonacci-number) |
