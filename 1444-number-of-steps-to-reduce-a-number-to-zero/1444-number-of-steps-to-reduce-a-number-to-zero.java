@@ -8,7 +8,7 @@ class Solution {
         if(n==0) {
             return count;
         }
-        else if(n%2==0) {
+        if(n%2==0) {
             return counting(n/2,count+1);
         }
         return counting(n-1,count+1);
