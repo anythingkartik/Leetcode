@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/anythingkartik/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anythingkartik/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anythingkartik/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anythingkartik/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anythingkartik/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anythingkartik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -89,6 +90,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anythingkartik/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anythingkartik/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/anythingkartik/Leetcode/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/anythingkartik/Leetcode/tree/master/0739-daily-temperatures) |
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/anythingkartik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anythingkartik/Leetcode/tree/master/0389-find-the-difference) |
 | [3321-type-of-triangle](https://github.com/anythingkartik/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -126,6 +129,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anythingkartik/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anythingkartik/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anythingkartik/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anythingkartik/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/anythingkartik/Leetcode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/anythingkartik/Leetcode/tree/master/1044-find-common-characters) |
@@ -145,6 +149,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anythingkartik/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/anythingkartik/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anythingkartik/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
 ## Trie
 |  |
@@ -165,6 +170,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anythingkartik/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anythingkartik/Leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anythingkartik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
