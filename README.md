@@ -92,6 +92,7 @@
 | [0238-product-of-array-except-self](https://github.com/anythingkartik/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anythingkartik/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anythingkartik/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/anythingkartik/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/anythingkartik/Leetcode/tree/master/0500-keyboard-row) |
 | [0739-daily-temperatures](https://github.com/anythingkartik/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/anythingkartik/Leetcode/tree/master/0792-binary-search) |
