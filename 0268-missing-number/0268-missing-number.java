@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<len;i++) {
             missingSum+=nums[i];
         }
-        return (actualSum-missingSum);
+     return (actualSum-missingSum);
     }
 }
 
