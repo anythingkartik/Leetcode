@@ -13,7 +13,7 @@ class Solution {
                 count=0;
             }
         }
-        return Math.max(max, count);
-
+        return Math.max(max, count); //what if arrays ends with bunch of 1s and not 0 , then it will print 
+                                     //old max value
     }
 }
