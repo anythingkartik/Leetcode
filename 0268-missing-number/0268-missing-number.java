@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int missingNumber(int[] nums) {
         int len=nums.length;
         int actualSum=(int)(len*(len+1))/2;
@@ -8,7 +8,29 @@ class Solution {
         }
      return (actualSum-missingSum);
     }
+}*/
+
+class Solution {
+    public int missingNumber(int[] nums) {
+        int xor1 = 0;
+        int xor2 = 0;
+        int n = nums.length;
+
+        // XOR all numbers from 0 to n
+        for (int i = 0; i <=n; i++) {
+            xor1 ^= i;
+        }
+
+        // XOR all elements in the array
+        for (int num : nums) {
+            xor2 ^= num;
+        }
+
+        // Missing number is the XOR of the above two
+        return xor1 ^ xor2;
+    }
 }
+
 
 /*class Solution {
     public int missingNumber(int[] nums) {
